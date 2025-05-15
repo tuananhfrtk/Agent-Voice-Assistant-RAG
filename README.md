@@ -107,16 +107,7 @@ The assistant offers several professional voice options suitable for banking:
 - Firecrawl API access
 - Internet connection for API calls
 
-## 📦 Dependencies
 
-```
-streamlit>=1.24.0
-openai>=1.0.0
-qdrant-client>=1.1.1
-fastembed>=0.1.0
-python-dotenv>=0.19.0
-firecrawl>=1.0.0
-```
 
 ## 🤝 Contributing
 
@@ -128,28 +119,7 @@ We welcome contributions to improve the Banking Voice Assistant! Please follow t
 4. Push to the branch
 5. Create a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
 
-This Banking Voice Assistant is designed to provide general banking information and should not be considered as financial advice. Always consult with banking professionals for specific financial decisions.
 
-## 📞 Support
-
-For support, please:
-- Open an issue in the GitHub repository
-- Contact your banking IT department
-- Reach out to the development team
-
-## 🔄 Updates
-
-Stay updated with the latest features and improvements by:
-- Watching the repository
-- Checking the release notes
-- Following our development blog
-
----
-
-Built with ❤️ for modern banking solutions
